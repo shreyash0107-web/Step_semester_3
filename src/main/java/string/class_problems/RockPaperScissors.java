@@ -1,7 +1,7 @@
 package string.class_problems;
 import java.util.Random;
 import java.util.Scanner;
-public class RockPaperSci {
+public class RockPaperScissors {
     static String playRound(String playerMove, String computerMove) {
         if (playerMove.equals(computerMove)) {
             return "Draw";
