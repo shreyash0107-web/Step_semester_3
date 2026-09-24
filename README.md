@@ -1,41 +1,25 @@
-# Step_semester_3
+# Step Semester 3
 
-## Date: 11-09-2026
+## Date: 24-09-2026
 
 **Today's Work:**
-- Set up the GitHub repository.
-- Created the required branches.
-- Set up the project structure.
-- Started Week 1 coding work.
-- Completed the assigned Week 1 problems.
+
+- Continued working on Session 6 coding problems.
+- Set up the required project structure for Session 6.
+- Worked on the assigned Java programming problems.
+- Created the required folders under `src/main/java`.
+- Added and configured the `.gitignore` file.
+- Configured Git to ignore IntelliJ-generated files such as `.idea/`, `.iml`, `out/`, and `target/`.
+- Worked on the assigned Session 6 problems and tested the programs.
 
 **Next Session Plan:**
-- Continue with Week 2 coding problems.
+
+- Continue with the next set of coding problems.
 - Complete the assigned problems.
+- Test and verify all programs.
+- Update the README with the progress made in the next session.
 
 **Issues Faced:**
-- None
 
----
-
-## Date: 12-09-2026
-
-**Today's Work:**
-- Completed Week 2 String class problems.
-- Completed Week 2 String assignment problems.
-- Practiced String manipulation and validation in Java.
-- Used concepts such as charAt(), length(), split(), substring(),
-  trim(), replace(), lastIndexOf(), equalsIgnoreCase(),
-  StringBuilder, Character.isLetter(), Character.isDigit(),
-  HashMap, and loops.
-- Organized the Week 2 problems inside the appropriate
-  class_problems and assignment_problems packages.
-- Implemented and tested the assigned Java programs.
-
-**Next Session Plan:**
-- Continue with Week 3 coding problems.
-- Complete the assigned problems for the next session.
-- Continue maintaining the GitHub repository and README.
-
-**Issues Faced:**
-- None
+- Faced an issue with IntelliJ IDEA not displaying the Java Class option while creating files.
+- Resolved the Git tracking issue for the `.idea` folder by configuring `.gitignore`.
