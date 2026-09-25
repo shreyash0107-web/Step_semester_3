@@ -1,41 +1,25 @@
 # Step_semester_3
-
-## Date: 11-09-2026
-
+## Date: 25-09-2026
 **Today's Work:**
-- Set up the GitHub repository.
-- Created the required branches.
-- Set up the project structure.
-- Started Week 1 coding work.
-- Completed the assigned Week 1 problems.
+- Completed Week 7 Java programming session on Abstraction and Interfaces.
+- Learned about abstract classes and abstract methods.
+- Practiced implementing and using interfaces.
+- Practiced method overriding and method overloading.
+- Learned about multilevel and hierarchical inheritance.
+- Practiced using the `super()` keyword and `super.method()`.
+- Learned about runtime polymorphism and compile-time polymorphism.
+- Practiced the `instanceof` operator and type casting.
+- Practiced upcasting using parent class references.
+- Implemented JavaBean getter and setter methods with validation.
+- Completed the Category B Assignment and Practice exercises provided for Week 7.
 
 **Next Session Plan:**
-- Continue with Week 2 coding problems.
-- Complete the assigned problems.
+- Continue practicing Java OOP concepts.
+- Revise abstraction, interfaces, inheritance and polymorphism.
+- Practice more scenario-based Java problems.
+- Prepare for upcoming Java lab and viva.
 
 **Issues Faced:**
-- None
-
----
-
-## Date: 12-09-2026
-
-**Today's Work:**
-- Completed Week 2 String class problems.
-- Completed Week 2 String assignment problems.
-- Practiced String manipulation and validation in Java.
-- Used concepts such as charAt(), length(), split(), substring(),
-  trim(), replace(), lastIndexOf(), equalsIgnoreCase(),
-  StringBuilder, Character.isLetter(), Character.isDigit(),
-  HashMap, and loops.
-- Organized the Week 2 problems inside the appropriate
-  class_problems and assignment_problems packages.
-- Implemented and tested the assigned Java programs.
-
-**Next Session Plan:**
-- Continue with Week 3 coding problems.
-- Complete the assigned problems for the next session.
-- Continue maintaining the GitHub repository and README.
-
-**Issues Faced:**
-- None
+- Faced an issue in the multilevel inheritance problems where the PDF specifies the parent method as abstract while also requiring `super.method()` to be called.
+- Understood that an abstract method does not have an implementation that can be called using `super.method()`.
+- Modified the implementation to follow the intended `super()` method-chaining behavior.
